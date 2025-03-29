@@ -29,4 +29,4 @@
 - LangMem supports a Vector Database that provides searchable, shareable and persistent storage that can be updated immediately by the agent, or in the background by a helper agent.
 - In this course, we’ll build a useful email assistant that utilizes all these concepts using LangMem.
 
-***WIP - More Notes Incoming!***
+***WIP - More Notes Coming!***
