@@ -6,7 +6,7 @@
 
 **Harrison Chase - Co-Founder & CEO, LangChain**
 
-***Notes by Vishnu Subramanian - AI/ML Computational Science Associate Manager, Accenture | AI Researcher & Instructor, BloomTech***
+***Notes by Vishnu Subramanian***
 
 ***Wednesday, 03/26/2025 - Wednesday, 03/26/2025***
 
